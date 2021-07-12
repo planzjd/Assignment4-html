@@ -1,0 +1,33 @@
+﻿body {
+    background-color: lightblue;
+}
+
+li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+}
+img {
+    border: 2px solid black;
+    width: 80vw;
+    height: 70vh; 
+}
+iframe {
+    border: 2px solid black;
+    padding: 10px 10px 20px 10px;
+}
+.h1-class{
+    color: hotpink;
+}
+#Frankfurt{
+    color: firebrick;
+}
+#Fayetteville{
+    color: ButtonShadow;
+}
+#Mannheim{
+    color: cornflowerblue;
+}
+#AbuDhabi{
+    color: saddlebrown;
+}
